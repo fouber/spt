@@ -1,6 +1,6 @@
 {
   "name": "spt",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "a simple front-end dev tool",
   "main": "index.js",
   "bin" : {
@@ -9,7 +9,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "preferGlobal" : true,
+  "preferGlobal " : true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fis-dev/fis.git"
+  },
   "keywords": [
     "spt",
     "fis"
