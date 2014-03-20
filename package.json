@@ -1,0 +1,23 @@
+{
+  "name": "spt",
+  "version": "0.0.3",
+  "description": "a simple front-end dev tool",
+  "main": "index.js",
+  "bin" : {
+    "spt" : "bin/spt"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "preferGlobal" : true,
+  "keywords": [
+    "spt",
+    "fis"
+  ],
+  "dependencies" : {
+    "fis" : "1.7.3",
+    "fis-lint-jshint" : "0.0.7"
+  },
+  "author": "fouber <fouber.NET@gmail.com>",
+  "license": "MIT"
+}
