@@ -17,4 +17,5 @@ spt release -r dirA -od dirB
 ## 功能
 
 1. js、css、png图片压缩
+1. 图片压缩不用安装其他外部依赖
 1. 无需配置
