@@ -8,16 +8,10 @@ npm install -g spt
 
 ## 用法
 
-1. 命令行下cd到你的项目目录
+1. 对一个目录(dirA)进行压缩，发布到另一个目录里(dirB)
 
     ```shell
-    cd project
-    ```
-
-2. 执行压缩并产出代码到output目录
-
-    ```shell
-    spt release -od ../output
+    spt release -r dirA -od dirB
     ```
 
 ## 功能
