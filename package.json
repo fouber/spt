@@ -1,6 +1,6 @@
 {
   "name": "spt",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "a simple front-end dev tool",
   "main": "index.js",
   "bin" : {
