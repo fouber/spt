@@ -8,7 +8,7 @@ npm install -g spt
 
 ## 用法
 
-> 对一个目录(dirA)进行压缩，发布到另一个目录里(dirB)
+> 对一个目录(dirA)进行压缩，把结果发布到另一个目录里(dirB)
 
 ```shell
 spt release -r dirA -od dirB
