@@ -11,7 +11,7 @@ npm install -g spt
 > 对一个目录进行压缩，把结果发布到另一个目录里
 
 ```shell
-spt release -r dirA -od dirB
+spt release -r 目录A -od 目录B
 ```
 
 > 对一个目录进行压缩，并监听文件变化，把结果实时发布到另一个目录里
